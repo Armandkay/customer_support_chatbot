@@ -1,0 +1,4 @@
+id,context,user,agent,intent
+1,,"Hi, I need help with my order.","Sure! Can you please share your order number?",order_help
+2,,"My internet is not working.","I’m sorry to hear that. Let’s run a quick check—did you restart your router?",technical_support
+...
