@@ -1,0 +1,11 @@
+# Ignore virtual environment
+venv/
+
+# Ignore large model files
+checkpoints/tf_model.h5
+
+# Ignore other cache or temporary files
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
